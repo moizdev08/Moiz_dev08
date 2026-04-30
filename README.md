@@ -1,9 +1,10 @@
 # Hi, I'm Muhammad Moiz
 
-##  Software Engineer | AI/ML Engineer | Full Stack Developer
+## Software Engineer | AI/ML Engineer | Full Stack Developer
 
 I am a Software Engineer specializing in **AI/ML systems, backend development, and full-stack applications**.  
 I enjoy building real-world, production-ready systems using modern technologies.
+Passionate about building scalable applications and integrating AI into real-world systems.
 
 ---
 
@@ -74,5 +75,5 @@ I enjoy building real-world, production-ready systems using modern technologies.
 
 ##  Contact
 
-- GitHub: Muhammad Moiz  
-- Focus: Mobile App Development(React Native+Laravel+Firebase) + AI/ML + Backend Engineering
+- GitHub: https://github.com/moizdev08
+- Focus: Full Stack Development(React Native+Laravel+Firebase) + AI/ML
